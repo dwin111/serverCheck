@@ -1,0 +1,10 @@
+name: ServerChecker
+version: '${project.version}'
+main: org.betelgem.serverchecker.ServerChecker
+commands:
+  getdonat:
+    description: Free donat
+    usage: /<command>
+  getdonatcommand:
+    description: Free donat
+    usage: /<command>
